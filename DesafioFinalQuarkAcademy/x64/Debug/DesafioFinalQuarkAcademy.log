@@ -1,0 +1,5 @@
+﻿  Cotizacion.cpp
+  View.cpp
+  Generating Code...
+C:\Users\Augusto\source\repos\DesafioFinalQuarkAcademy\DesafioFinalQuarkAcademy\Cotizacion.cpp(108): warning C4715: 'Cotizacion::getCotizacion': not all control paths return a value
+  DesafioFinalQuarkAcademy.vcxproj -> C:\Users\Augusto\source\repos\DesafioFinalQuarkAcademy\x64\Debug\DesafioFinalQuarkAcademy.exe
